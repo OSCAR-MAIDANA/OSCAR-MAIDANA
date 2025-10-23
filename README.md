@@ -36,6 +36,18 @@
 </p>
 
 ---
+### 🎮 Práctica en Pentesting
+
+<p align="left">
+  <a href="https://app.hackthebox.com/profile/TU-USER" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+  </a>
+</p>
+
+- 🚩 **Hack The Box:** Práctica activa en pentesting y CTFs
+- 🎯 **TryHackMe:**
+
+--- 
 
 ### 📜 Certificaciones Profesionales
 
