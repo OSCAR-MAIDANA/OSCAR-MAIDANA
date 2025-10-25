@@ -1,25 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header" />
+# Oscar Maidana
+### Cybersecurity Specialist | Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=OSCAR+MAIDANA" alt="Name" />
-
-<img src="https://img.shields.io/badge/Cybersecurity-Specialist-0ea5e9?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-Developer-06b6d4?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Pentesting-In_Training-ef4444?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Pentesting+%7C+Secure+Development;SOC+Analysis+%7C+Incident+Response;React+%7C+Python+%7C+Linux" alt="Skills" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Pentesting+%7C+Secure+Development;SOC+Analysis+%7C+Incident+Response;Frontend+Developer+%7C+Python" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio)
 
 </div>
-
 ---
 
 ## Perfil Profesional
