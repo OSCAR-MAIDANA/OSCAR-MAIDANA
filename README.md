@@ -85,7 +85,7 @@ Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**.
 </tr>
 </table>
 
-### Expertise Técnico
+### Expertise
 ```bash
 # Análisis y Monitoreo
 SIEM | Wireshark | Autopsy | tcpdump | Nmap
