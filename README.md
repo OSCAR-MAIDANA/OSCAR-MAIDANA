@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OSCAR-MAIDANA/OSCAR-MAIDANA/main/concepto-de-seguridad-cibernetica-en-el-arte-digital.jpg" alt="Oscar Maidana - Especialista en Ciberseguridad" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=200&section=header&text=Oscar%20Maidana&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%26%20Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 # 👋 ¡Hola! Soy Óscar
 
-Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
+Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
 
 ## 🎓 Certificaciones
 
