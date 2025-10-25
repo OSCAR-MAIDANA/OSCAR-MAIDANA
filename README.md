@@ -1,12 +1,10 @@
-p align="center">
-  <img src="https://raw.githubusercontent.com/OSCAR-MAIDANA/OSCAR-MAIDANA/main/concepto-de-seguridad-cibernetica-en-el-arte-digital.jpg" alt="Oscar Maidana - Especialista en Ciberseguridad y Desarrollo Frontend" width="400"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OSCAR-MAIDANA/OSCAR-MAIDANA/main/concepto-de-seguridad-cibernetica-en-el-arte-digital.jpg" alt="Oscar Maidana - Especialista en Ciberseguridad" width="400"/>
+</div>
 
-<h1 align="left">👋 ¡Hola! Soy Oscar Maidana</h1>
+# 👋 ¡Hola! Soy Óscar
 
-<p align="left">
-Desarrollador Frontend especializado en <strong>Ciberseguridad Ofensiva y Defensiva</strong>. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
-</p>
+Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
 
 ## 🎓 Certificaciones
 
@@ -53,10 +51,10 @@ Oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarr
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tu-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
