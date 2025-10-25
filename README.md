@@ -1,12 +1,62 @@
-<p align="center">
+p align="center">
   <img src="https://raw.githubusercontent.com/OSCAR-MAIDANA/OSCAR-MAIDANA/main/concepto-de-seguridad-cibernetica-en-el-arte-digital.jpg" alt="Oscar Maidana - Especialista en Ciberseguridad y Desarrollo Frontend" width="400"/>
 </p>
 
-<h1 align="left">👋 ¡Hola! Soy Oscar!</h1>
+<h1 align="left">👋 ¡Hola! Soy Oscar Maidana</h1>
 
-<p align="left">Soy un desarrollador web Frontend apasionado por la ciberseguridad. Me encanta combinar lógica, diseño y seguridad para construir proyectos sólidos y robustos. Siempre en constante aprendizaje, mi objetivo es crear experiencias digitales seguras, eficientes y accesibles.</p>
+<p align="left">
+Desarrollador Frontend especializado en <strong>Ciberseguridad Ofensiva y Defensiva</strong>. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
+</p>
 
-🚀 Actualmente estoy cursando un máster intensivo en Ciberseguridad & IA en Evolve y preparándome para la obtención del certificado PCAP en Python. Estoy en busca de nuevas oportunidades para seguir creciendo, aprendiendo y aportar valor a proyectos innovadores.
+## 🎓 Certificaciones
+
+**Ciberseguridad:**
+- 🏆 **IT Specialist in Cybersecurity** (Certiport/Pearson VUE - 717/700)
+- 🔵 **Cisco CyberOps Associate** | CCST Cybersecurity | CCNA Intro to Networks
+- 🔐 **Informática Forense & Ciberseguridad** (60h)
+- ⚙️ **Ciberseguridad Avanzada en Entornos OT/SCADA** (120h)
+- 🛡️ **Seguridad Digital Básica** - RGPD, Gestión de Riesgos
+
+**Desarrollo:**
+- ⚛️ Carrera Desarrollo Frontend React (CoderHouse - TOP 10)
+- 🐍 Python (Santander Open Academy + LinkedIn Learning)
+
+## 🚀 Actualmente
+
+- 📚 **Máster en Ciberseguridad & IA** - Evolve Academy (480h, 2025)
+- 🎯 Preparando: **eJPTv** (Pentesting) & **PCAP** (Python Certified Associate)
+
+## 🔒 Stack Técnico
+
+**Desarrollo:**
+```
+Frontend: React, JavaScript ES6+, HTML5, CSS3
+Backend: Python, Node.js
+```
+
+**Ciberseguridad:**
+```
+SIEM | Wireshark | Autopsy | tcpdump
+ISO 27001 | MITRE ATT&CK | NIST
+Análisis Forense | Incident Response | SOC
+OT/SCADA Security | Vulnerability Assessment
+```
+
+**Herramientas:**
+```
+Linux/Bash | Git | Docker | Redes TCP/IP
+```
+
+## 🎯 Busco
+
+Oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarrollo seguro, análisis de vulnerabilidades y respuesta a incidentes. Interesado en roles de: Security Analyst, SOC Analyst, Pentester Jr, o DevSecOps.
+
+---
+
+<p align="center">
+  <a href="tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
