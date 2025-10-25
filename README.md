@@ -70,7 +70,6 @@ Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
@@ -91,7 +90,7 @@ Análisis Forense | Incident Response | SOC Operations
 OT/SCADA Security | Vulnerability Assessment | Pentesting
 
 # Infraestructura
-Linux/Bash | Redes TCP/IP | Docker | Git
+Linux/Bash | Redes TCP/IP | Git
 ```
 
 ---
@@ -125,7 +124,5 @@ Oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarr
 <br/><br/>
 
 **"Security is not a product, but a process"** - Bruce Schneier
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
 </div>
