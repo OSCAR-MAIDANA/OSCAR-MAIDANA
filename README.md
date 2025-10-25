@@ -10,7 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio)
 
 </div>
----
 
 ## Perfil Profesional
 
@@ -104,7 +103,7 @@ Linux/Bash | Redes TCP/IP | Git
 
 ## Objetivo Profesional
 
-Oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarrollo seguro, análisis de vulnerabilidades y respuesta a incidentes.
+En buca de oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarrollo seguro, análisis de vulnerabilidades y respuesta a incidentes.
 
 **Roles de interés:**
 - Security Analyst
