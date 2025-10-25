@@ -11,7 +11,7 @@
 
 </div>
 
-# 👋 ¡Hola! Soy Óscar
+## 💼 Sobre mí
 
 Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
 
