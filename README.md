@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=200&section=header&text=Oscar%20Maidana&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%26%20Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Oscar%20Maidana&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%26%20Frontend%20Developer&descAlignY=51" width="100%"/>
 </div>
+
+<br/>
 
 # 👋 ¡Hola! Soy Óscar
 
