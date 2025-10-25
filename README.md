@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Oscar%20Maidana&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%26%20Frontend%20Developer&descAlignY=51" width="100%"/>
-</div>
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio)
 
 # 👋 ¡Hola! Soy Óscar
 
