@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⬡ Oscar Maidana
+<img src="https://img.icons8.com/3d-fluency/94/security-shield-green.png" width="100" alt="Security"/>
+
+# Oscar Maidana
 ### Cybersecurity Specialist | Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Pentesting+%7C+Secure+Development;SOC+Analysis+%7C+Incident+Response;Frontend+Developer+%7C+Python" alt="Typing SVG" />
