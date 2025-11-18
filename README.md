@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oscar Maidana
+# Oscar Daniel Maidana
 ### Cybersecurity Specialist | Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Pentesting+%7C+Secure+Development;SOC+Analysis+%7C+Incident+Response;Frontend+Developer+%7C+Python" alt="Typing SVG" />
@@ -14,6 +14,23 @@
 ## Perfil Profesional
 
 Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
+
+##  Proyectos Destacados
+
+### [Advanced Network Pivoting Laboratory](./Network-Pivoting-Lab/)
+
+Simulación completa de ataque Red Team comprometiendo tres máquinas a través de múltiples redes segmentadas, desde el perímetro inicial hasta obtener control total del Active Directory. Este proyecto demuestra capacidades avanzadas de pivoting, movimiento lateral y escalada de privilegios en entornos corporativos realistas.
+
+**Logros clave del proyecto:**
+- Compromiso exitoso de tres sistemas operativos diferentes: Windows 7, Ubuntu y Windows Server 2016
+- Establecimiento de túneles SOCKS5 con Chisel para atravesar redes segmentadas  
+- Explotación de vulnerabilidades críticas: CVE-2017-0144 (EternalBlue) y CVE-2017-0143 (MS17-010 PSEXEC)
+- Escalada hasta privilegios NT AUTHORITY\SYSTEM en el controlador de dominio
+- Documentación profesional completa con mapeo a MITRE ATT&CK Framework
+
+**Stack técnico utilizado:** Metasploit, Chisel, Proxychains, Meterpreter, GTFOBins, Netcat, Nmap
+
+**Impacto y aprendizaje:** Este ejercicio simula un escenario realista de Red Team donde un atacante con acceso limitado al perímetro debe moverse lateralmente a través de múltiples segmentos de red hasta comprometer el objetivo más crítico de la infraestructura. El proyecto incluye análisis detallado de desafíos técnicos encontrados y soluciones aplicadas, demostrando no solo habilidades técnicas sino también capacidad de resolución de problemas y documentación profesional.
 
 ---
 
