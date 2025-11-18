@@ -8,7 +8,7 @@
 
 **Simulación completa de ataque multi-red: Desde perímetro hasta Active Directory**
 
-[Informe Completo](./Practica_3_-_Pivoting_-_Oscar_Maidana.pdf) • [LinkedIn](https://linkedin.com/in/oscar-maidana)
+[Informe Completo](./Practica_3_Pivoting_Oscar_Maidana.pdf) • [LinkedIn](https://linkedin.com/in/oscar-maidana)
 
 </div>
 
