@@ -38,6 +38,7 @@ Simulación completa de ataque Red Team comprometiendo tres máquinas a través 
 
 **Ciberseguridad:**
 ```
+├─ Junior Penetration Tester (eJPTv2) (INE Security) | 2025 |  Activa hasta Dic 3, 2028 | [ID: 168344017](https://certs.ine.com/35dc7dcb-b9b6-47b0-8591-3eb043b13f4c) |
 ├─ IT Specialist in Cybersecurity (Certiport/Pearson VUE - 717/700)
 ├─ Cisco CyberOps Associate | CCST Cybersecurity | CCNA
 ├─ Informática Forense & Ciberseguridad (60h)
@@ -55,10 +56,9 @@ Simulación completa de ataque Red Team comprometiendo tres máquinas a través 
 
 ## Formación Actual
 
-**Máster en Ciberseguridad & IA** - Evolve Academy (480h, 2025)
+**Máster en Ciberseguridad & IA** | Evolve Academy | 480h | **9,63/10** | Dic 2025
 
 **Certificaciones en curso:**
-- eJPTv (Pentesting)
 - PCAP (Python Certified Associate)
 
 ---
