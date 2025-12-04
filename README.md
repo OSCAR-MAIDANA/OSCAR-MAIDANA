@@ -143,12 +143,6 @@ En buca de oportunidades en **ciberseguridad** donde pueda aplicar mi experienci
 
 <div align="center">
 
-### Estadísticas GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=OSCAR-MAIDANA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSCAR-MAIDANA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-
-<br/><br/>
 
 **"Security is not a product, but a process"** - Bruce Schneier
 
