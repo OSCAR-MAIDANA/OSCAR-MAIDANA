@@ -1,149 +1,235 @@
 <div align="center">
 
 # Oscar Daniel Maidana
-### Cybersecurity Analyst | Frontend Developer
+### Cybersecurity Analyst | Frontend Developer | 20 Years QA Experience
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Pentesting+%7C+Secure+Development;SOC+Analysis+%7C+Incident+Response;Frontend+Developer+%7C+Python" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio)
-
-</div>
-
-## Perfil Profesional
-
-Desarrollador Frontend especializado en **Ciberseguridad Ofensiva y Defensiva**. Combino desarrollo web seguro con análisis de vulnerabilidades, pentesting y hardening de infraestructuras. Mi objetivo es construir aplicaciones robustas desde el código hasta la infraestructura.
-
-##  Proyectos Destacados
-
-### [Advanced Network Pivoting Laboratory](./Network-Pivoting-Lab/)
-
-Simulación completa de ataque Red Team comprometiendo tres máquinas a través de múltiples redes segmentadas, desde el perímetro inicial hasta obtener control total del Active Directory. Este proyecto demuestra capacidades avanzadas de pivoting, movimiento lateral y escalada de privilegios en entornos corporativos realistas.
-
-**Logros clave del proyecto:**
-- Compromiso exitoso de tres sistemas operativos diferentes: Windows 7, Ubuntu y Windows Server 2016
-- Establecimiento de túneles SOCKS5 con Chisel para atravesar redes segmentadas  
-- Explotación de vulnerabilidades críticas: CVE-2017-0144 (EternalBlue) y CVE-2017-0143 (MS17-010 PSEXEC)
-- Escalada hasta privilegios NT AUTHORITY\SYSTEM en el controlador de dominio
-- Documentación profesional completa con mapeo a MITRE ATT&CK Framework
-
-**Stack técnico utilizado:** Metasploit, Chisel, Proxychains, Meterpreter, GTFOBins, Netcat, Nmap
-
-**Impacto y aprendizaje:** Este ejercicio simula un escenario realista de Red Team donde un atacante con acceso limitado al perímetro debe moverse lateralmente a través de múltiples segmentos de red hasta comprometer el objetivo más crítico de la infraestructura. El proyecto incluye análisis detallado de desafíos técnicos encontrados y soluciones aplicadas, demostrando no solo habilidades técnicas sino también capacidad de resolución de problemas y documentación profesional.
-
----
-
-## Certificaciones Destacadas
-
-**Ciberseguridad:**
-```
-├─ Junior Penetration Tester (eJPTv2) (INE Security) | 2025 |  Activa | [ID: 168344017](https://certs.ine.com/35dc7dcb-b9b6-47b0-8591-3eb043b13f4c) |
-├─ IT Specialist in Cybersecurity (Certiport/Pearson VUE - 717/700)
-├─ Cisco CyberOps Associate | CCST Cybersecurity | CCNA
-├─ Informática Forense & Ciberseguridad (60h)
-├─ Ciberseguridad Avanzada en Entornos OT/SCADA (120h)
-└─ Seguridad Digital Básica - RGPD, Gestión de Riesgos
-```
-
-**Desarrollo:**
-```
-├─ Carrera Desarrollo Frontend React (CoderHouse - TOP 10)
-└─ Python Especialización (Santander + LinkedIn Learning)
-```
-
----
-
-## Formación Actual
-
-**Máster en Ciberseguridad & IA** | Evolve Academy | 480h | **9,63/10** | Dic 2025
-
-**Certificaciones en curso:**
-- PCAP (Python Certified Associate)
-
----
-
-## Stack Técnico
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Ciberseguridad</h3>
-
-<div align="center">
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-maidana-bbb8942a8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odmaidana1@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/338302)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://oscar-maidana.github.io/Certificaciones-portafolio/)
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">Desarrollo</h3>
+## Professional Profile | Perfil Profesional
 
-<div align="center">
+**English:**  
+QA Professional with 20 years of experience in regulated pharmaceutical environments (Rovi,Synthon Hispania,Roemmers,Bayer), transitioning to Cybersecurity with serious technical preparation. Combining professional maturity with fresh offensive and defensive security skills.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Español:**  
+Profesional de QA con 20 años de experiencia en entornos farmacéuticos regulados (Rovi,Synthon Hispania,Roemmers,Bayer), en transición hacia Ciberseguridad con preparación técnica seria. Combinando madurez profesional con habilidades actualizadas en seguridad ofensiva y defensiva.
 
-</div>
+---
 
-</td>
-</tr>
-</table>
+## Certifications & Education | Certificaciones y Formación
 
-### Expertise
-```bash
-# Análisis y Monitoreo
-SIEM | Wireshark | Autopsy | tcpdump | Nmap
+| Certification | Institution | Year | Grade/Status |
+|--------------|-------------|------|--------------|
+| Master in Cybersecurity & AI | Evolve Academy | 2025 | 9.63/10 |
+| eJPTv2 (Junior Penetration Tester) | eLearnSecurity/INE | 2025 | Certified |
+| CCNA (Networking) | Cisco | 2025 | Certified |
+| CyberOps Associate | Cisco | 2025 | Certified |
+| CCST Cybersecurity | Cisco | 2025 | Certified |
 
-# Frameworks y Estándares
-ISO 27001 | MITRE ATT&CK | NIST | OWASP
+**HackTheBox:** 44+ machines solved, Bronze Tier Season 9, Script Kiddie Badge
 
-# Operaciones de Seguridad
-Análisis Forense | Incident Response | SOC Operations
-OT/SCADA Security | Vulnerability Assessment | Pentesting
+---
 
-# Infraestructura
-Linux/Bash | Redes TCP/IP | Git
+## Professional Background | Experiencia Profesional
+
+**20 Years in Pharmaceutical Quality Assurance**  
+**20 Años en Quality Assurance Farmacéutico**   
+*Rovi / Synthon Hispania / Roemmers / Bayer*
+
+---
+
+## Transferable Skills for Cybersecurity | Habilidades Transferibles para Ciberseguridad
+
+**Critical Incident Analysis | Análisis de Incidentes Críticos**  
+20 years managing deviations in production environments under strict SLAs  
+20 años gestionando desviaciones en entornos de producción bajo SLAs estrictos
+
+**Systematic Escalation | Escalado Sistemático**  
+Expert in following defined procedures and playbooks for critical situations  
+Experto en seguir procedimientos definidos y playbooks para situaciones críticas
+
+**Technical Documentation | Documentación Técnica**  
+Professional-level documentation skills (GMP, ISO standards, audit-ready reports)  
+Habilidades de documentación nivel profesional (GMP, estándares ISO, informes auditables)
+
+**Cross-functional Collaboration | Colaboración Multifuncional**  
+Extensive experience coordinating with IT, Engineering, and Management teams  
+Amplia experiencia coordinando con equipos de IT, Ingeniería y Dirección
+
+**Pressure Management | Gestión bajo Presión**  
+Proven ability to handle production-critical incidents with strict deadlines  
+Capacidad demostrada para manejar incidentes críticos de producción con plazos estrictos
+
+---
+
+## Technical Skills | Habilidades Técnicas
+
+### Security Tools | Herramientas de Seguridad
+```
+Penetration Testing:  Nmap, Burp Suite, Metasploit, SQLmap, Hydra, John the Ripper
+Network Analysis:     Wireshark, tcpdump, Netcat
+Pivoting/Tunneling:   Chisel, Ligolo-ng, ProxyChains
+Web Security:         OWASP ZAP, Nikto, DirBuster
+Password Attacks:     Hashcat, Hydra, John the Ripper
+```
+
+### Programming & Scripting | Programación y Scripting
+```
+Languages:  Python, Bash, JavaScript
+Systems:    Linux (Kali, Ubuntu, Parrot), Windows Server
+Tools:      Git/GitHub, Docker, VMware, VirtualBox
+```
+
+### Networking | Redes
+```
+Protocols:   TCP/IP, DNS, HTTP/HTTPS, SSH, FTP, SMB, RDP
+Firewalls:   iptables, pfSense
+VPN:         OpenVPN, WireGuard
+Certified:   CCNA (Routing, Switching, Subnetting, VLANs, NAT)
+```
+
+### Security Frameworks & Methodologies | Metodologías de Seguridad
+```
+MITRE ATT&CK Framework
+OWASP Top 10
+Cyber Kill Chain
+ISO 27001 (from QA background)
 ```
 
 ---
 
-## Práctica en Pentesting
+## Featured Projects | Proyectos Destacados
 
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+### Advanced Network Pivoting Laboratory
+
+**English:**  
+Complete Red Team simulation compromising three machines across multiple segmented networks, from initial perimeter access to full Active Directory control. This project demonstrates advanced lateral movement techniques and network pivoting in complex enterprise environments.
+
+**Español:**  
+Simulación completa de Red Team comprometiendo tres máquinas a través de múltiples redes segmentadas, desde el acceso inicial al perímetro hasta el control total del Active Directory. Este proyecto demuestra técnicas avanzadas de movimiento lateral y pivoting de red en entornos empresariales complejos.
+
+**Repository:** [Network Pivoting Report](./Network%20Pivoting%20Report)
+
+### Key Achievements | Logros Clave
+
+- Successful compromise of 3 different operating systems: Windows 7, Ubuntu, Windows Server 2016  
+  Compromiso exitoso de 3 sistemas operativos diferentes: Windows 7, Ubuntu, Windows Server 2016
+
+- Established SOCKS5 tunnels with Chisel for traversing segmented networks  
+  Establecimiento de túneles SOCKS5 con Chisel para atravesar redes segmentadas
+
+- Exploitation of critical CVEs: CVE-2017-0144 (EternalBlue) and CVE-2017-0143 (MS17-010 PSEXEC)  
+  Explotación de CVEs críticas: CVE-2017-0144 (EternalBlue) y CVE-2017-0143 (MS17-010 PSEXEC)
+
+- Achieved NT AUTHORITY\SYSTEM privilege escalation on Windows Server 2016  
+  Escalada de privilegios NT AUTHORITY\SYSTEM en Windows Server 2016
+
+- Complete Active Directory Domain Controller compromise  
+  Compromiso completo del Controlador de Dominio Active Directory
+
+- Professional documentation mapped to MITRE ATT&CK Framework  
+  Documentación profesional mapeada al Framework MITRE ATT&CK
+
+### Technical Skills Demonstrated | Habilidades Técnicas Demostradas
+
+- Network pivoting and lateral movement | Pivoting de red y movimiento lateral
+- Tunnel establishment and port forwarding (Chisel, Ligolo-ng) | Establecimiento de túneles y reenvío de puertos
+- Multi-network exploitation strategies | Estrategias de explotación multi-red
+- Active Directory attack techniques | Técnicas de ataque a Active Directory
+- Professional security reporting and documentation | Reporting profesional de seguridad y documentación
 
 ---
 
-## Objetivo Profesional
+## Additional Resources | Recursos Adicionales
 
-En buca de oportunidades en **ciberseguridad** donde pueda aplicar mi experiencia en desarrollo seguro, análisis de vulnerabilidades y respuesta a incidentes.
+**Master's Degree Labs:** [LABS Repository](./LABS)  
+Vulnerability assessment and penetration testing laboratory exercises from Master's program  
+Ejercicios de laboratorio de evaluación de vulnerabilidades y pruebas de penetración del programa de Master
 
-**Roles de interés:**
-- Security Analyst
-- SOC Analyst  
-- Pentester Junior
-- DevSecOps Engineer
+**Technical Reports:** [INFORMES Repository](./INFORMES)  
+Professional security assessment documentation and analysis reports  
+Documentación profesional de evaluación de seguridad e informes de análisis
+
+**Certifications Portfolio:** [Digital Badges](https://oscar-maidana.github.io/Certificaciones-portafolio/)  
+Complete collection of digital certificates and credentials  
+Colección completa de certificados digitales y credenciales
+
+---
+
+## Career Objective | Objetivo Profesional
+
+**English:**  
+Seeking Junior SOC Analyst, Security Analyst, or Junior Penetration Tester positions in Madrid where I can apply my technical cybersecurity foundation while leveraging 20 years of professional experience in critical incident management and systematic operations.
+
+**Español:**  
+Buscando posiciones de Analista SOC Junior, Analista de Seguridad o Pentester Junior en Madrid donde pueda aplicar mi base técnica en ciberseguridad aprovechando 20 años de experiencia profesional en gestión de incidentes críticos y operaciones sistemáticas.
+
+---
+
+## Why Consider My Profile | Por Qué Considerar Mi Perfil
+
+**Fresh Technical Skills + Professional Maturity**  
+**Habilidades Técnicas Actualizadas + Madurez Profesional**
+
+Recent specialized training (Master's 9.63/10, eJPTv2, 4 Cisco certifications) combined with 20 years of professional experience in regulated environments.
+
+Formación especializada reciente (Master 9.63/10, eJPTv2, 4 certificaciones Cisco) combinada con 20 años de experiencia profesional en entornos regulados.
+
+**Proven Incident Management Experience**  
+**Experiencia Demostrada en Gestión de Incidentes**
+
+Two decades handling critical deviations in pharmaceutical production under strict SLAs. Experience includes incident classification, systematic escalation following defined procedures, root cause analysis, and comprehensive documentation—skills directly transferable to SOC operations.
+
+Dos décadas manejando desviaciones críticas en producción farmacéutica bajo SLAs estrictos. La experiencia incluye clasificación de incidentes, escalado sistemático siguiendo procedimientos definidos, análisis de causa raíz y documentación exhaustiva—habilidades directamente transferibles a operaciones SOC.
+
+**Systematic Methodology**  
+**Metodología Sistemática**
+
+Expert in following defined procedures, playbooks, and escalation matrices from regulated pharmaceutical industry—core competencies for Security Operations Centers.
+
+Experto en seguir procedimientos definidos, playbooks y matrices de escalado de la industria farmacéutica regulada—competencias centrales para Centros de Operaciones de Seguridad.
+
+**Low Turnover Risk**  
+**Bajo Riesgo de Rotación**
+
+Career transition based on 2 years of serious preparation, not experimentation. High commitment to long-term professional development in cybersecurity.
+
+Transición profesional basada en 2 años de preparación seria, no experimentación. Alto compromiso con el desarrollo profesional a largo plazo en ciberseguridad.
+
+**Immediate Availability**  
+**Disponibilidad Inmediata**
+
+Full availability for immediate incorporation, including 24/7 shift work typical in SOC environments.
+
+Disponibilidad completa para incorporación inmediata, incluyendo trabajo por turnos 24/7 típico en entornos SOC.
+
+---
+
+## Contact Information | Información de Contacto
+
+**Location:** Madrid, Spain  
+**Availability:** Immediate incorporation (including 24/7 shifts)  
+**Languages:** Spanish (Native), English (B1-B2, actively improving)  
+**LinkedIn:** [linkedin.com/in/oscar-maidana-bbb8942a8](https://www.linkedin.com/in/oscar-maidana-bbb8942a8/)  
+**Email:** odmaidana1@gmail.com  
+**GitHub:** [github.com/OSCAR-MAIDANA](https://github.com/OSCAR-MAIDANA)
 
 ---
 
 <div align="center">
 
+**"Combining two decades of professional experience with cutting-edge cybersecurity skills"**
 
-**"Security is not a product, but a process"** - Bruce Schneier
+**"Combinando dos décadas de experiencia profesional con habilidades actualizadas en ciberseguridad"**
+
+---
+
+*Last updated: January 2025*
 
 </div>
