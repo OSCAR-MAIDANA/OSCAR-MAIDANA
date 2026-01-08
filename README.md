@@ -230,6 +230,6 @@ Disponibilidad completa para incorporación inmediata, incluyendo trabajo por tu
 
 ---
 
-*Last updated: January 2025*
+*Last updated: January 2026*
 
 </div>
