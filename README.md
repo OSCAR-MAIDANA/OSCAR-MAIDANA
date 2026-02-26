@@ -18,7 +18,7 @@
 QC Professional with 20 years of experience in regulated pharmaceutical environments (Rovi,Synthon Hispania,Roemmers,Bayer), transitioning to Cybersecurity with serious technical preparation. Combining professional maturity with fresh offensive and defensive security skills.
 
 **Español:**  
-Profesional de QA con 20 años de experiencia en entornos farmacéuticos regulados (Rovi,Synthon Hispania,Roemmers,Bayer), en transición hacia Ciberseguridad con preparación técnica seria. Combinando madurez profesional con habilidades actualizadas en seguridad ofensiva y defensiva.
+Profesional de QC con 20 años de experiencia en entornos farmacéuticos regulados (Rovi,Synthon Hispania,Roemmers,Bayer), en transición hacia Ciberseguridad con preparación técnica seria. Combinando madurez profesional con habilidades actualizadas en seguridad ofensiva y defensiva.
 
 ---
 
