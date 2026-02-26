@@ -38,8 +38,8 @@ Profesional de QC con 20 años de experiencia en entornos farmacéuticos regulad
 
 ## Professional Background | Experiencia Profesional
 
-**20 Years in Pharmaceutical Quality Assurance**  
-**20 Años en Quality Assurance Farmacéutico**   
+**20 Years in Pharmaceutical Quality Control**  
+**20 Años en Quality Control Farmacéutico**   
 *Rovi / Synthon Hispania / Roemmers / Bayer*
 
 ---
