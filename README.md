@@ -82,15 +82,15 @@ Password Attacks:     Hashcat, Hydra, John the Ripper
 ### Programming & Scripting | Programación y Scripting
 ```
 Languages:  Python, Bash, JavaScript
-Systems:    Linux (Kali, Ubuntu, Parrot), Windows Server
-Tools:      Git/GitHub, Docker, VMware, VirtualBox
+Systems:    Linux (Kali, Ubuntu), Windows Server
+Tools:      Git/GitHub, Docker, VirtualBox
 ```
 
 ### Networking | Redes
 ```
 Protocols:   TCP/IP, DNS, HTTP/HTTPS, SSH, FTP, SMB, RDP
-Firewalls:   iptables, pfSense
-VPN:         OpenVPN, WireGuard
+Firewalls:   iptables
+VPN:         OpenVPN
 Certified:   CCNA (Routing, Switching, Subnetting, VLANs, NAT)
 ```
 
