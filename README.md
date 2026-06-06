@@ -1,7 +1,7 @@
 <div align="center">
 
 # Oscar Daniel Maidana
-### Cybersecurity Analyst | Frontend Developer | 20 Years QC Experience
+### Cybersecurity Analyst | Backend Developer | 20 Years QC Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-maidana-bbb8942a8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odmaidana1@gmail.com)
